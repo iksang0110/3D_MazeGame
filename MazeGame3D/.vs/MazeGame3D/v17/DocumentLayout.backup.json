@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iksang\\source\\repos\\MazeGame3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3ABAABA-2C61-4F6D-B12C-573B4D365120}|\uC194\uB8E8\uC158 \uD56D\uBAA9{B3ABAABA-2C61-4F6D-B12C-573B4D365120}|C:\\Users\\iksang\\source\\repos\\MazeGame3D\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B3ABAABA-2C61-4F6D-B12C-573B4D365120}|\uC194\uB8E8\uC158 \uD56D\uBAA9{B3ABAABA-2C61-4F6D-B12C-573B4D365120}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D772ECA7-9A47-4E27-BFC6-AA9C91DD2A15}|MazeGame3D\\MazeGame3D.vcxproj|C:\\Users\\iksang\\source\\repos\\MazeGame3D\\MazeGame3D\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D772ECA7-9A47-4E27-BFC6-AA9C91DD2A15}|MazeGame3D\\MazeGame3D.vcxproj|solutionrelative:MazeGame3D\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\iksang\\source\\repos\\MazeGame3D\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\iksang\\source\\repos\\MazeGame3D\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-09T08:33:23.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\iksang\\source\\repos\\MazeGame3D\\MazeGame3D\\main.c",
+              "RelativeDocumentMoniker": "MazeGame3D\\main.c",
+              "ToolTip": "C:\\Users\\iksang\\source\\repos\\MazeGame3D\\MazeGame3D\\main.c",
+              "RelativeToolTip": "MazeGame3D\\main.c",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAIwH4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-02T10:48:49.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
